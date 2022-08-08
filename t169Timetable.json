@@ -221,7 +221,8 @@
 			"time": {
 				"arrTime": "05:12",
 				"depTime": "Final Arrival",
-				"timeFromLast": "2h 26m"
+				"timeFromLast": "2h 26m",
+				"runningTime": "18h22m"
 			},
 			"distance": {
 				"totalDistance": "1598km",
